@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26a51e82-72fd-4dbf-9392-7fc28191e486" name="Default" comment="" />
+    <list default="true" id="26a51e82-72fd-4dbf-9392-7fc28191e486" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
     <ignored path="PhotoOrganizer.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -68,11 +70,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/readme.md">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.034722224" vertical-offset="0" max-vertical-offset="432">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.065645516" vertical-offset="0" max-vertical-offset="457">
+              <caret line="2" column="95" selection-start-line="2" selection-start-column="95" selection-end-line="2" selection-end-column="95" />
               <folding />
             </state>
           </provider>
@@ -102,6 +104,7 @@
         <option value="$PROJECT_DIR$/PhotoOrganizer.rb" />
         <option value="$PROJECT_DIR$/lib/DirWalker.rb" />
         <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -499,10 +502,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/readme.md">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.034722224" vertical-offset="0" max-vertical-offset="432">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.065645516" vertical-offset="0" max-vertical-offset="457">
+          <caret line="2" column="95" selection-start-line="2" selection-start-column="95" selection-end-line="2" selection-end-column="95" />
           <folding />
         </state>
       </provider>
