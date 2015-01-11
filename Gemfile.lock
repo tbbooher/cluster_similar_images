@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    exifr (1.2.0)
+    ffi (1.9.6)
+    fileutils (0.7)
+      rmagick (>= 2.13.1)
+    pHash (1.1.5)
+      ffi (~> 1.0)
+    rmagick (2.13.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  exifr
+  ffi
+  fileutils
+  pHash
