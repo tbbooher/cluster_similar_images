@@ -8,9 +8,8 @@ require 'pp'
 require './lib/PHash'
 require './lib/BKTree'
 require './lib/DirWalker'
-
-include FileOrganizer
-include FingerPrints
+require './file_organizer'
+require './finger_prints'
 
 class PhotoOrganizer
 
@@ -48,3 +47,6 @@ class PhotoOrganizer
    end
 
 end
+
+organizer = PhotoOrganizer.new
+organizer.organize

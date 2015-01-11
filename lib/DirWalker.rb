@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 
 require 'find'
-require "fileutils"
+require 'fileutils'
 
 class RecursiveDirWalker
 
